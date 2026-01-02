@@ -1,4 +1,14 @@
-# Byte-compiled / optimized / DLL files
+.venv
+downloaded_images
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.sqlite3
+*.db
+env/
+venv/
+/.pytest_cache/# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
@@ -205,3 +215,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+downloaded_images
+
